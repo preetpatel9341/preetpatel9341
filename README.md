@@ -230,7 +230,7 @@ I'm always excited to collaborate on innovative projects and discuss the latest 
 
 <div align="center">
 
-### 🌟 "Innovation distinguishes between a leader and a follower." - Steve Jobs
+### 🌟 "Innovation distinguishes between a leader and a follower."
 
 *Thanks for visiting my profile! Don't forget to ⭐ some repositories if you found them interesting!*
 
