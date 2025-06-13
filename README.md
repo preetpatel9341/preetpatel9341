@@ -160,39 +160,6 @@ I'm an **innovative and results-driven software developer** with a strong passio
 
 ---
 
-## 🎯 Current Focus
-
-```javascript
-const preet = {
-    currentRole: "AI/ML Developer Intern @ VNurture Technology",
-    education: "MSc. Information Technology (2023-2025)",
-    currentProjects: [
-        "Children's Drawing Emotion Analysis System",
-        "Plant Disease Detection using Deep Learning",
-        "Advanced Portfolio Website with 3D Elements"
-    ],
-    learningGoals: [
-        "Advanced Computer Vision Techniques",
-        "Deep Learning Optimization",
-        "Cloud Native AI Applications",
-        "DevOps for ML Pipelines"
-    ],
-    techInterests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full Stack Development",
-        "Computer Vision",
-        "Natural Language Processing"
-    ]
-};
-```
-
----
-
-
----
-
-
 
 ### 🎓 Education & Experience
 - 🎯 **AI/ML Developer Intern** - VNurture Technology (Dec 2024 - Apr 2025)
