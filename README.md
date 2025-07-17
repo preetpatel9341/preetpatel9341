@@ -44,14 +44,14 @@ Hi, I'm <strong>Preet Patel</strong> – a <em>Full Stack Developer</em> and <em
   <tr>
     <td width="50%" valign="top" style="padding: 0 1rem 2rem 0;">
       <h3>Interactive Developer Portfolio</h3>
-      <img src="https://via.placeholder.com/400x200/8B5CF6/FFFFFF?text=Portfolio+Website" alt="Portfolio Website" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(59 130 246 / 0.3);" />
+      <img src="https://github.com/preetpatel9341/images/blob/main/portfolio.png" alt="Portfolio Website" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(59 130 246 / 0.3);" />
       <p><strong>Tech:</strong> Next.js, Tailwind CSS, Three.js, Framer Motion</p>
       <p>Personal portfolio featuring 3D animations, dark mode, and contact form.</p>
       <p><a href="https://preetpatel.dev" style="color: #3B82F6; font-weight: 600;">Live Demo →</a></p>
     </td>
     <td width="50%" valign="top" style="padding: 0 0 2rem 1rem;">
       <h3>Late Night Wine & Liquor Store</h3>
-      <img src="https://via.placeholder.com/400x200/111827/FFFFFF?text=Liquor+Store" alt="Liquor Store" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(17 24 39 / 0.3);" />
+      <img src="https://github.com/preetpatel9341/images/blob/main/late_night_liquor.png" alt="Liquor Store" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(17 24 39 / 0.3);" />
       <p><strong>Tech:</strong> Next.js, Node.js, Express.js, MongoDB</p>
       <p>Full-stack e-commerce app with product catalog, search, authentication, and age verification.</p>
       <p><a href="https://latenightwineliquor.com" style="color: #111827; font-weight: 600;">Live Demo →</a></p>
@@ -60,14 +60,14 @@ Hi, I'm <strong>Preet Patel</strong> – a <em>Full Stack Developer</em> and <em
   <tr>
     <td width="50%" valign="top" style="padding: 0 1rem 2rem 0;">
       <h3>Java Heaven — Coffee Shop Management System</h3>
-      <img src="https://via.placeholder.com/400x200/10B981/FFFFFF?text=Coffee+Shop+Management" alt="Coffee Shop Management" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(16 185 129 / 0.3);" />
+      <img src="https://github.com/preetpatel9341/images/blob/main/java_heaven.png" alt="Coffee Shop Management" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(16 185 129 / 0.3);" />
       <p><strong>Tech:</strong> MERN Stack (MongoDB, Express, React, Node.js)</p>
       <p>Coffee shop platform with authentication, payments, and analytics.</p>
       <p><a href="https://javaheaven.me" style="color: #10B981; font-weight: 600;">Live Demo →</a></p>
     </td>
     <td width="50%" valign="top" style="padding: 0 0 2rem 1rem;">
       <h3>Plant Disease Detection System</h3>
-      <img src="https://via.placeholder.com/400x200/EF4444/FFFFFF?text=Plant+Disease+AI" alt="Plant Disease Detection" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(239 68 68 / 0.3);" />
+      <img src="https://github.com/preetpatel9341/images/blob/main/plant_disease.jpg" alt="Plant Disease Detection" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(239 68 68 / 0.3);" />
       <p><strong>Tech:</strong> Python, TensorFlow, OpenCV, Streamlit</p>
       <p>AI-powered image classification for plant disease detection.</p>
     </td>
@@ -75,13 +75,13 @@ Hi, I'm <strong>Preet Patel</strong> – a <em>Full Stack Developer</em> and <em
   <tr>
     <td width="50%" valign="top" style="padding: 0 1rem 0 0;">
       <h3>Children's Drawing Emotion Analysis System</h3>
-      <img src="https://via.placeholder.com/400x200/3B82F6/FFFFFF?text=AI+Emotion+Analysis" alt="Emotion Analysis" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(59 130 246 / 0.3);" />
+      <img src="https://github.com/preetpatel9341/images/blob/main/emotion_detector.png" alt="Emotion Analysis" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(59 130 246 / 0.3);" />
       <p><strong>Tech:</strong> FastAPI, React, TypeScript, PyTorch</p>
       <p>AI system to classify children's drawings into emotions.</p>
     </td>
     <td width="50%" valign="top" style="padding: 0 0 0 1rem;">
       <h3>Lottery Tracker — Sales Management Web App</h3>
-      <img src="https://via.placeholder.com/400x200/2563EB/FFFFFF?text=Lottery+Tracker" alt="Lottery Tracker" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(37 99 235 / 0.3);" />
+      <img src="https://github.com/preetpatel9341/images/blob/main/lottery_tracker.png" alt="Lottery Tracker" width="100%" style="border-radius: 0.5rem; box-shadow: 0 8px 16px rgb(37 99 235 / 0.3);" />
       <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
       <p>Sales tracking and analytics dashboard for lottery retailers.</p>
       <p><a href="https://lottery-tracker-silk.vercel.app" style="color: #2563EB; font-weight: 600;">Live Demo →</a></p>
