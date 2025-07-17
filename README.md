@@ -88,7 +88,7 @@
 | [🔗 Code](https://github.com/preetpatel9341/emotion-analysis)<br>**Python • FastAPI • PyTorch • EfficientNet • React**<br>95% accuracy in detecting children's drawing emotions | [🔗 Live](https://www.javaheaven.me)<br>**MERN Stack • Redux • Tailwind CSS**<br>Role-based coffee shop app with auth and payments |
 
 | 🌱 Plant Disease Detection System | 🎯 Interactive Portfolio Website |
-|--------------------------|-------------------------------|
+|--------------------------------------|----------------------------------------|
 | <img src="https://via.placeholder.com/400x200/EF4444/FFFFFF?text=Plant+Disease+AI" width="100%" /> | <img src="https://via.placeholder.com/400x200/8B5CF6/FFFFFF?text=Portfolio+Website" width="100%" /> |
 | [🔗 Code](https://github.com/preetpatel9341/plant-disease-detection)<br>**TensorFlow • Keras • OpenCV • Streamlit**<br>AI-based diagnosis with VGG16/MobileNetV2 | [🔗 Live](https://preetpatel.dev)<br>**Next.js • Three.js • Framer Motion • NestJS**<br>Modern portfolio with 3D animations |
 
