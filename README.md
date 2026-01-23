@@ -31,7 +31,7 @@ Hi, I'm <strong>Preet Patel</strong> – a <em>Full Stack Developer</em> and <em
 
 <ul style="max-width: 700px; margin: 1rem auto 2rem; font-size: 1rem; color: #444; list-style-type: none; padding-left: 0;">
   <li>✨ <strong>Expertise:</strong> Full Stack Development, AI/ML, Web Applications, API Design, Cloud Deployment</li>
-  <li>🎓 <strong>Education:</strong> MS in Information Technology (AI/ML specialization), BS in Information Technology</li>
+  <li>🎓 <strong>Education:</strong> MS in Information Technology , BS in Information Technology</li>
   <li>🛠️ <strong>Skills:</strong> JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Tailwind CSS, TensorFlow, PyTorch, Git, CI/CD</li>
   <li>📍 <strong>Location:</strong> Galloway, New Jersey, USA</li>
 </ul>
@@ -152,7 +152,7 @@ Hi, I'm <strong>Preet Patel</strong> – a <em>Full Stack Developer</em> and <em
 ## 🎓 Education
 
 <ul style="max-width: 700px; margin: 0 auto 2rem; font-size: 1rem; color: #444; list-style-position: inside;">
-  <li>MS Information Technology (AI/ML specialization)</li>
+  <li>MS Information Technology</li>
   <li>BS Information Technology</li>
 </ul>
 
@@ -161,18 +161,8 @@ Hi, I'm <strong>Preet Patel</strong> – a <em>Full Stack Developer</em> and <em
 ## 💼 Experience
 
 <ul style="max-width: 700px; margin: 0 auto 2rem; font-size: 1rem; color: #444; list-style-position: inside;">
-  <li>Freelance Software Developer (2025–Present)</li>
+  <li>Freelance Software Developer - Contract Projects(2025–Present)</li>
   <li>AI/ML Developer Intern at VNurture Technologies (2024–2025)</li>
-</ul>
-
----
-
-## 🌱 Interests
-
-<ul style="max-width: 700px; margin: 0 auto 2rem; font-size: 1rem; color: #444; list-style-position: inside;">
-  <li>Artificial Intelligence Research</li>
-  <li>Open Source Contribution</li>
-  <li>Technology Writing</li>
 </ul>
 
 ---
