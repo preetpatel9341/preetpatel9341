@@ -3,7 +3,7 @@
 <h1 align="center" style="font-weight: 900; letter-spacing: -1px;">👋 Hi, I'm Preetkumar Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;MERN+Stack+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineer;AI%2FML+Engineer;" alt="Typing SVG" />
 </p>
 
 <div align="center" style="margin-bottom: 1.5rem;">
